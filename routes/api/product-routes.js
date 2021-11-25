@@ -40,6 +40,7 @@ router.get('/:id', (req, res) => {
       {
         model: Tag,
         through: ProductTag,
+        as: "tags",
       },
     ],
   })
