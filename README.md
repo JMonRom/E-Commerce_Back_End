@@ -13,11 +13,11 @@
 
   Here is a video to the E-Commerce app being run in command line, logging into MYSQL, sourcing schema, seeding data, and testing all required ROUTES:
 
-  [Video of E-Commerce Backend]()
+  [Video of E-Commerce Backend](https://drive.google.com/file/d/1o4pu6lxLnt73QQKqlVjPgsr2vEG2_POB/view?usp=sharing)
 
   Here is a snippet of MSQL login, schema, and seed:
 
-  [schema/seed/npm start](./assets/schemaSeed.gif)
+  [Schema/ Seed/ npm start](./assets/schemaSeed.gif)
 
   Here are snippets of the API Get routes and testing API POST, PUT, and DELETE routes in Insomnia Core:
 
@@ -33,9 +33,8 @@
 
   Here is a link to the GitHub for this assignment :
 
-  [Github]()
+  [Github](https://github.com/JMonRom/E-Commerce_Back_End)
 
-  
 
   ## Table of Contents
   * [License](#license)
