@@ -11,17 +11,31 @@
   [Model Querying](https://sequelize.org/master/manual/model-querying-basics.html)
   
 
-  Here is a video to the E-Commerce app being run in command line:
+  Here is a video to the E-Commerce app being run in command line, logging into MYSQL, sourcing schema, seeding data, and testing all required ROUTES:
 
   [Video of E-Commerce Backend]()
 
+  Here is a snippet of MSQL login, schema, and seed:
+
+  [schema/seed/npm start](./assets/schemaSeed.gif)
+
+  Here are snippets of the API Get routes and testing API POST, PUT, and DELETE routes in Insomnia Core:
+
+  [API GET All Categories, Products, Tags](./assets/GETAll.gif)
+
+  [API GET Single Category, Product, Tag](./assets/GETbyID.gif)
+
+  [GET, POST, PUT, DELETE for Categories](./assets/GPPDCategories.gif)
+
+  [GET, POST, PUT, DELETE for Products ](./assets/GPPDProducts.gif)
+
+  [GET, POST, PUT, DELETE for Tags](./assets/GPPDTags.gif)
+
   Here is a link to the GitHub for this assignment :
 
-  [E-Commerce_Back_End]()
+  [Github]()
 
-  Here is a screenshot of the app running in command line:
-
-  [PNG of E-Commerce]()
+  
 
   ## Table of Contents
   * [License](#license)
